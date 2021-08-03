@@ -36,4 +36,5 @@ Some of the code is adapted from [Keras implementation of DeeplabV3+](https://gi
 ## Citation
 If you benefit from this code, please cite our paper:
 ```
+@INPROCEEDINGS{9412368,  author={Masihullah, Shaik and Garg, Ritu and Mukherjee, Prerana and Ray, Anupama},  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},   title={Attention Based Coupled Framework for Road and Pothole Segmentation},   year={2021},  volume={},  number={},  pages={5812-5819},  doi={10.1109/ICPR48806.2021.9412368}}
 ```
